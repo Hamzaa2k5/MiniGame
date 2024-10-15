@@ -1,0 +1,5 @@
+Functions That I did not Implement:
+
+W,A,S,D - I have written down the codes for my player to move, however my issue is that the player only moves right and left but it still collides with the car and prints the message.
+
+Goal - Since my player is unable to move down and up, I am not able to check wheather my goal function is working or not since the player cannot reach the goal.
